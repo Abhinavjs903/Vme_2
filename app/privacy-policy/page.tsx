@@ -78,7 +78,7 @@ export default function PrivacyPolicyPage() {
                 rel="noopener noreferrer"
                 className="text-indigo-500 underline underline-offset-2 hover:text-indigo-600"
               >
-                Vercel's Privacy Policy
+                VercelPrivacy Policy
               </a>{" "}
               for details.
             </p>
